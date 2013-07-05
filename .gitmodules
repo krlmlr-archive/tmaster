@@ -1,0 +1,3 @@
+[submodule "tsub"]
+	path = tsub
+	url = git://github.com/krlmlr/tsub.git
